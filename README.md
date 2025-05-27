@@ -11,4 +11,7 @@ PoCフォルダで以下を実行して初期コミット
 $ git init
 $ git add .
 $ git commit -m "Initial Symfony minimal setup"
+$ git branch -M main
+$ git remote add origin https://github.com/i3-works/PoC.git
+$ git push -u origin main
 ```
